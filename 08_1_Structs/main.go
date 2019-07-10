@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-//struckt is the collection of filed
+//struckt is the collection of fields
 //part 1
 type Vertex struct {
 	X int
